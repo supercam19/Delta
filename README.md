@@ -5,14 +5,11 @@
  
  # Installation
  
-1. Go to your Rainmeter skins folder. By default this is in:
-Documents/Rainmeter/Skins
-
-2. Extract the .zip file
-
-3. Now your path should be:
-Rainmeter/Skins/Delta
-And inside the Delta folder there should be another folder called "@Resources". If this is here, congrats, you installed it correctly.
+ 0. If you haven't yet, install [Rainmeter!](https://www.rainmeter.net/)
+ 
+1. Go to the [latest release of Delta](https://github.com/supercam19/Delta/releases)
+2. Download the Delta.rmskin file to wherever you want
+3. Run the Delta.rmskin file and the Rainmeter installer will pop up, just click install and your done!
 
 # Utilizing it
 
