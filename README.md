@@ -14,7 +14,7 @@ Documents/Rainmeter/Skins
 Rainmeter/Skins/Delta
 And inside the Delta folder there should be another folder called "@Resources". If this is here, congrats, you installed it correctly.
 
-# Utulizing it
+# Utilizing it
 
 1. Start Rainmeter if it is not already open, go to your taskbar icons and right-click on Rainmeter.
 2. Click on "Skins" then "Delta" and you can choose whatever you want to enable from there.
