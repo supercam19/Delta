@@ -10,6 +10,7 @@ Changes
 
 Fixes
 - Fixed issue where some of the Large Clock.ini would sometimes get cut off
+- Fixed inconsistencies between licenses
 
 Known Bugs
 - It seems that the color for all the "Drive Color Coded.ini" skins are not displaying the proper shade of green, I have no clue why.
