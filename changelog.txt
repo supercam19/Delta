@@ -1,0 +1,15 @@
+Update v1.1 (2021/07/20)
+
+Additions
+- Added a Drive D: and E:
+- Added a toolbar which you can put other Rainmeter skins on. Designed for Delta skins
+- Created changelog.txt
+
+Changes
+- Change "Disk" TO "Drive" in the C Drive.ini
+
+Fixes
+- Fixed issue where some of the Large Clock.ini would sometimes get cut off
+
+Known Bugs
+- It seems that the color for all the "Drive Color Coded.ini" skins are not displaying the proper shade of green, I have no clue why.
