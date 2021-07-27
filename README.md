@@ -9,7 +9,7 @@
  
 1. Go to the [latest release of Delta](https://github.com/supercam19/Delta/releases)
 2. Download the Delta.rmskin file to wherever you want
-3. Run the Delta.rmskin file and the Rainmeter installer will pop up, just click install and your done!
+3. Run the Delta.rmskin file and the Rainmeter installer will pop up, just click install and you're done!
 
 # Utilizing it
 
