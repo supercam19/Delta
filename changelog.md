@@ -1,5 +1,10 @@
 # Delta Changelog
 
+## Hotfix 1.2.1 (Nov. 13, 2021)
+
+### Fixes
+- Fixed C Drive Color Coded skin not changing colours
+
 ## Update 1.2 (Sept. 26, 2021)
 
 ### Additions
