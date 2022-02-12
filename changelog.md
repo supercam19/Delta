@@ -1,5 +1,16 @@
 # Delta Changelog
 
+## Update v1.3 (Feb 12, 2022)
+
+### Additions
+- Added new Network skin
+- Added a GPU bar
+- Added several more configuration options
+
+### Changes
+- Moved the detailed clock and the large clock skins into seperate directories so both can be loaded at the same time.
+- Added configuration instructions to the README
+
 ## Hotfix 1.2.1 (Nov. 13, 2021)
 
 ### Fixes
