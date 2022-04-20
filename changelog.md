@@ -1,5 +1,12 @@
 # Delta Changelog
 
+## Update v1.3.1 - Spectral colours (Apr 19, 2022)
+
+Finally got this feature working, now the colour coded bar skins will change from from green to red on a spectrum instead of having four colour states.
+
+### Changes
+- Colours will now change on a spectrum rather than have 4 possible colours
+
 ## Update v1.3 (Feb 12, 2022)
 
 ### Additions
