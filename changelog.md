@@ -1,5 +1,10 @@
 # Delta Changelog
 
+## Hotfix v1.3.2 - Spectral colours (May 5, 2022)
+
+### Fixes
+- Fixed the GPU color coded skin not having any red
+
 ## Update v1.3.1 - Spectral colours (Apr 19, 2022)
 
 Finally got this feature working, now the colour coded bar skins will change from from green to red on a spectrum instead of having four colour states.
