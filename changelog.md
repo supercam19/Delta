@@ -1,5 +1,13 @@
 # Delta Changelog
 
+## Update v1.3.3 - User greetings (Nov 11, 2022)
+
+### Additions
+- Added a greeting skin that changes based on time
+
+### Fixes
+- Reversed the day of the month and month so it is in the correct order (date/date and time skins)
+
 ## Hotfix v1.3.2 - Spectral colours (May 5, 2022)
 
 ### Fixes
