@@ -1,5 +1,10 @@
 # Delta Changelog
 
+## In developement
+
+### Fixes
+ - Potential fix for GPU bar exceeding 100% during usage spikes
+
 ## Update v1.3.3 - User greetings (Nov 11, 2022)
 
 ### Additions
