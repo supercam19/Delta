@@ -19,3 +19,6 @@
 # Configuration
 
 If you want to configure the skins, go to Documents\Rainmeter\Skins\Delta\@Resources and open config.ini.
+
+# Attributions
+<a href="https://www.flaticon.com/free-icons/watch" title="watch icons">Watch icons created by Freepik - Flaticon</a>
