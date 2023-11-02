@@ -1,9 +1,18 @@
 # Delta Changelog
 
-## In developement
+## Update v1.3.4 - Uptime widget overhaul (Nov 2, 2023)
+
+### Uptime widget overhaul
+ - Replaced the uptime widget with a new more sleek version to fit better with the theme
+ - It will now only tell you days and hours since last restart by default
+ - Hovering the widget will give you a more precise time (minutes and seconds)
+ - Added font configuration into the config
+
+### Changes
+ - Renamed "Drive" directory to "Storage"
 
 ### Fixes
- - Potential fix for GPU bar exceeding 100% during usage spikes
+ - Fix for GPU bar exceeding 100% during usage spikes
 
 ## Update v1.3.3 - User greetings (Nov 11, 2022)
 
