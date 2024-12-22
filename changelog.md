@@ -1,5 +1,11 @@
 # Delta Changelog
 
+## Update v1.4.0 - Network widget overhaul (Dec 22, 2024)
+
+### Network widget overhaul
+ - Network skin replaced with new version that fits in better with the theme
+ 
+
 ## Update v1.3.4 - Uptime widget overhaul (Nov 2, 2023)
 
 ### Uptime widget overhaul
