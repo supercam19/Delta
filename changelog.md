@@ -4,7 +4,8 @@
 
 ### Network widget overhaul
  - Network skin replaced with new version that fits in better with the theme
- 
+ - Hovering with your mouse will switch to displaying your local and public IP address
+ - Fixed "0: " displaying when the network name could not be found. Now it will just show the adapter type
 
 ## Update v1.3.4 - Uptime widget overhaul (Nov 2, 2023)
 
