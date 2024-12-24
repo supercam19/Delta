@@ -7,6 +7,9 @@
  - Hovering with your mouse will switch to displaying your local and public IP address
  - Fixed "0: " displaying when the network name could not be found. Now it will just show the adapter type
 
+### Fixes
+ - Fixed alignment issues when hovering the uptime widget
+
 ## Update v1.3.4 - Uptime widget overhaul (Nov 2, 2023)
 
 ### Uptime widget overhaul
