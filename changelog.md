@@ -1,14 +1,22 @@
 # Delta Changelog
 
-## Update v1.4.0 - Network widget overhaul (Dec 22, 2024)
+## Update v1.4.0 - Network widget overhaul (Dec 27, 2024)
 
 ### Network widget overhaul
  - Network skin replaced with new version that fits in better with the theme
  - Hovering with your mouse will switch to displaying your local and public IP address
  - Fixed "0: " displaying when the network name could not be found. Now it will just show the adapter type
 
+### Changes
+ - /System/ bar widgets now have their value properly right aligned
+ - The size of /System/ bar widgets can be set in the config
+
 ### Fixes
  - Fixed alignment issues when hovering the uptime widget
+ - Inconsistent veritcal spacing in /System/ widgets
+ - Various instances of a ssetting in the config.ini file not applying to some skins
+ - Various instances of a colour defined in gvars.ini config file not applying
+ - Fixed the GPU skin from spamming the log with messages
 
 ## Update v1.3.4 - Uptime widget overhaul (Nov 2, 2023)
 
