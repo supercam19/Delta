@@ -18,6 +18,9 @@
  - Various instances of a colour defined in gvars.ini config file not applying
  - Fixed the GPU skin from spamming the log with messages
 
+ ### Removed
+ - Detailed Clock.ini skin
+
 ## Update v1.3.4 - Uptime widget overhaul (Nov 2, 2023)
 
 ### Uptime widget overhaul
